@@ -35,10 +35,7 @@ vivek = {
         "Computer Vision          (Frequency Domain Learning)",
         "End-to-End Deployment    (FastAPI, Docker)",
         "Classical ML             (XGBoost, Scikit-learn)"
-    ],
-
-    "currently" : "Agentic AI + MLOps  ->  shipping every week",
-    "open_to"   : "AI Engineering internships  (international, non-India)"
+    ]
 }
 ```
 
