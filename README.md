@@ -41,13 +41,6 @@ vivek = {
 
 ---
 
-## Quick Stats
-
-<div align="center">
-
-| Institution | Achievement | CGPA | Global Rank |
-|:-:|:-:|:-:|:-:|
-| NIT Surat (SVNIT) | NTIRE 2026 Conditional Accept | 8.42 / 10 | Top 20 in SR Challenge |
 
 </div>
 
@@ -135,8 +128,6 @@ vivek = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek_Chavda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek2705)
 [![Gmail](https://img.shields.io/badge/Gmail-vivek.chavda527-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.chavda527@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vivo--777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivo-777)
-
-**Open to:** AI Engineering internships at international startups · Remote or on-site
 
 </div>
 
