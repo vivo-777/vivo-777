@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D9FF,100:7928CA&height=200&section=header&text=Vivek%20Chavda&fontSize=65&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Builder&descAlignY=58&descSize=21" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D9FF,100:7928CA&height=200&section=header&text=Vivek%20Chavda&fontSize=65&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=58&descSize=21" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=560&lines=Electronics+%26+VLSI+%40+NIT+Surat+(SVNIT);NTIRE+2026+%E2%80%94+Top+20+Globally;Multi-Agent+LLM+Systems+%26+RAG+Pipelines;Computer+Vision+%7C+Frequency+Domain+Learning" alt="Typing SVG" />
